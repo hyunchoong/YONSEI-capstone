@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 788e56d4343eff4428e13666eaf24381
+timeCreated: 1478190653
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cake: {instanceID: 0}
+  - pet: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
